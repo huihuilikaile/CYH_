@@ -1,4 +1,4 @@
-# CYH_
+# 🎉CYH_
 
 **下载：[Releases · huihuilikaile/CYH_](https://github.com/huihuilikaile/CYH_/releases)**
 
