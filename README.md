@@ -9,6 +9,8 @@
 
 ![image](image/index.png)
 
+**点击可以跳转相应功能区**
+
 **crypto：**
 
 **base base嵌套 古典 hsah**
@@ -33,7 +35,13 @@
 
 **本地md储存**
 
+**在tools目录下可以修改相关信息，点击黄色小表情可以刷新**
+
 ![image](image/assect.png)
+
+**切换主题：**
+
+![image](image/color.png)
 
 ## ⌚ 计划
 
