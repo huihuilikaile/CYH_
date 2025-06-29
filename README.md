@@ -1,4 +1,7 @@
 # CYH_
+
+**下载：[Releases · huihuilikaile/CYH_](https://github.com/huihuilikaile/CYH_/releases)**
+
 ## 🚩 go学习之路
 
 **CYH_ ➡️ wails 构建的一个gui工具，用于ctf竞赛...**
