@@ -48,6 +48,10 @@
 
 ![image](image/color.png)
 
+## 音乐播放器：
+
+![image](image/music.png)
+
 ## ⌚ 计划
 
 **增加更多实用的功能，深入学习go语言&前端美化**
